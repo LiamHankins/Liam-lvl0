@@ -5,13 +5,13 @@ public class drawl {
 		Robot robert=new Robot();
 		robert.setSpeed(10);
 
-		//robert.penDown();
+//	robert.penDown();
 		
-	//	robert.move(500);
+		//robert.move(500);
 			//	robert.hide();
-		robert.setAngle(10000);
+		robert.setAngle(100000);
 		
-robert.move(1000000);
-//robert.setSpeed(100);
+robert.move(10000009);
+robert.setSpeed(100);
 	}
 }
